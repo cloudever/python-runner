@@ -1,0 +1,27 @@
+{
+  "name": "python-runner",
+  "version": "1.0.0",
+  "description": "Run python interactive shell and execute cmds",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudever/python-runner.git"
+  },
+  "keywords": [
+    "python",
+    "shell",
+    "runner"
+  ],
+  "author": "Cloudever",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudever/python-runner/issues"
+  },
+  "homepage": "https://github.com/cloudever/python-runner#readme"
+}
